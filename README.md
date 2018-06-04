@@ -12,3 +12,9 @@ Zadania na zajęcia z przedmiotu DISS
 - [] ćw5
 - [] ćw6
 - [] ćw7
+
+## Compatibility problems
+- labs version 6.2
+	- [x] cw3zad1
+	- [ ] cw5zad4
+- home version 
