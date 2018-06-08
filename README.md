@@ -5,16 +5,16 @@
 Zadania na zajęcia z przedmiotu DISS
 
 ## Todo
-- [] ćw1
-- [] ćw2
-- [] ćw3
-- [] ćw4
-- [] ćw5
-- [] ćw6
-- [] ćw7
+- [x] ćw1
+- [x] ćw2
+- [x] ćw3
+- [x] ćw4
+- [x] ćw5
+- [x] ćw6
+- [x] ćw7
 
 ## Compatibility problems
 - labs version 6.2
 	- [x] cw3zad1
-	- [ ] cw5zad4
-- home version 
+	- [x] cw5zad4
+- home version 6.3 
